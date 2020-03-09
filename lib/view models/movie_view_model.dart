@@ -13,6 +13,6 @@ class MovieViewModel {
 
   String get poster {
     return this.movie.poster; 
-  }
+}
 
 }
